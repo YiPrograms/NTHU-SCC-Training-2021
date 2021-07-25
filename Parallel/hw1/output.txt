@@ -1,0 +1,99 @@
+Using 5 processes
+Rank 1 Round 1: EVEN phase, ex: 0, ex_item_count: 4
+Rank 1 Round 1: I'm RIGHT, My sample: 0.000000, 0's sample: 0.000000
+Rank 1 Round 1: Stopped at barrier
+Rank 2 Round 1: EVEN phase, ex: 3, ex_item_count: 4
+Rank 2 Round 1: I'm LEFT, My sample: 0.000000, 3's sample: -0.000000
+Rank 2 Round 1: Changing with 3
+Rank 2 Round 1: Stopped at barrier
+Rank 3 Round 1: EVEN phase, ex: 2, ex_item_count: 4
+Rank 3 Round 1: I'm RIGHT, My sample: -0.000000, 2's sample: 0.000000
+Rank 3 Round 1: Changing with 2
+Rank 3 Round 1: Stopped at barrier
+Rank 4 Round 1: EVEN phase, ex: 5, ex_item_count: 0
+Rank 4 Round 1: Stopped at barrier
+Rank 0 Round 1: EVEN phase, ex: 1, ex_item_count: 4
+Rank 0 Round 1: I'm LEFT, My sample: 0.000000, 1's sample: 0.000000
+Rank 0 Round 1: Stopped at barrier
+Rank 0 Round 2: ODD phase, ex: -1, ex_item_count: 0
+Rank 4 Round 2: ODD phase, ex: 3, ex_item_count: 4
+Rank 1 Round 2: ODD phase, ex: 2, ex_item_count: 4
+Rank 1 Round 2: I'm LEFT, My sample: 0.000000, 2's sample: -0.000000
+Rank 1 Round 2: Changing with 2
+Rank 2 Round 2: ODD phase, ex: 1, ex_item_count: 4
+Rank 2 Round 2: I'm RIGHT, My sample: -0.000000, 1's sample: 0.000000
+Rank 2 Round 2: Changing with 1
+Rank 2 Round 2: Stopped at barrier
+Rank 3 Round 2: ODD phase, ex: 4, ex_item_count: 4
+Rank 3 Round 2: I'm LEFT, My sample: 0.000000, 4's sample: -0.000000
+Rank 3 Round 2: Changing with 4
+Rank 0 Round 2: Stopped at barrier
+Rank 0 Round 3: EVEN phase, ex: 1, ex_item_count: 4
+Rank 4 Round 2: I'm RIGHT, My sample: -0.000000, 3's sample: 0.000000
+Rank 4 Round 2: Changing with 3
+Rank 4 Round 2: Stopped at barrier
+Rank 4 Round 3: EVEN phase, ex: 5, ex_item_count: 0
+Rank 4 Round 3: Stopped at barrier
+Rank 1 Round 2: Stopped at barrier
+Rank 1 Round 3: EVEN phase, ex: 0, ex_item_count: 4
+Rank 2 Round 3: EVEN phase, ex: 3, ex_item_count: 4
+Rank 2 Round 3: I'm LEFT, My sample: 0.000000, 3's sample: -0.000000
+Rank 2 Round 3: Changing with 3
+Rank 3 Round 2: Stopped at barrier
+Rank 3 Round 3: EVEN phase, ex: 2, ex_item_count: 4
+Rank 3 Round 3: I'm RIGHT, My sample: -0.000000, 2's sample: 0.000000
+Rank 3 Round 3: Changing with 2
+Rank 3 Round 3: Stopped at barrier
+Rank 2 Round 3: Stopped at barrier
+Rank 0 Round 3: I'm LEFT, My sample: 0.000000, 1's sample: -0.000000
+Rank 0 Round 3: Changing with 1
+Rank 0 Round 3: Stopped at barrier
+Rank 1 Round 3: I'm RIGHT, My sample: -0.000000, 0's sample: 0.000000
+Rank 1 Round 3: Changing with 0
+Rank 1 Round 3: Stopped at barrier
+Rank 3 Round 4: ODD phase, ex: 4, ex_item_count: 4
+Rank 2 Round 4: ODD phase, ex: 1, ex_item_count: 4
+Rank 4 Round 4: ODD phase, ex: 3, ex_item_count: 4
+Rank 4 Round 4: I'm RIGHT, My sample: 0.000000, 3's sample: 0.000000
+Rank 4 Round 4: Changing with 3
+Rank 1 Round 4: ODD phase, ex: 2, ex_item_count: 4
+Rank 1 Round 4: I'm LEFT, My sample: 0.000000, 2's sample: -0.000000
+Rank 1 Round 4: Changing with 2
+Rank 4 Round 4: Stopped at barrier
+Rank 3 Round 4: I'm LEFT, My sample: 0.000000, 4's sample: 0.000000
+Rank 3 Round 4: Changing with 4
+Rank 3 Round 4: Stopped at barrier
+Rank 2 Round 4: I'm RIGHT, My sample: -0.000000, 1's sample: 0.000000
+Rank 2 Round 4: Changing with 1
+Rank 2 Round 4: Stopped at barrier
+Rank 0 Round 4: ODD phase, ex: -1, ex_item_count: 0
+Rank 0 Round 4: Stopped at barrier
+Rank 1 Round 4: Stopped at barrier
+Rank 0 Round 5: EVEN phase, ex: 1, ex_item_count: 4
+Rank 0 Round 5: I'm LEFT, My sample: -0.000000, 1's sample: -0.000000
+Rank 4 Round 5: EVEN phase, ex: 5, ex_item_count: 0
+Rank 4 Round 5: Stopped at barrier
+Rank 3 Round 5: EVEN phase, ex: 2, ex_item_count: 4
+Rank 3 Round 5: I'm RIGHT, My sample: 0.000000, 2's sample: 0.000000
+Rank 3 Round 5: Stopped at barrier
+Rank 2 Round 5: EVEN phase, ex: 3, ex_item_count: 4
+Rank 2 Round 5: I'm LEFT, My sample: 0.000000, 3's sample: 0.000000
+Rank 2 Round 5: Stopped at barrier
+Rank 1 Round 5: EVEN phase, ex: 0, ex_item_count: 4
+Rank 1 Round 5: I'm RIGHT, My sample: -0.000000, 0's sample: -0.000000
+Rank 1 Round 5: Stopped at barrier
+Rank 2 Round 6: ODD phase, ex: 1, ex_item_count: 4
+Rank 2 Round 6: I'm RIGHT, My sample: -0.000000, 1's sample: -0.000000
+Rank 2 Round 6: Stopped at barrier
+Rank 0 Round 5: Stopped at barrier
+Rank 0 Round 6: ODD phase, ex: -1, ex_item_count: 0
+Rank 4 Round 6: ODD phase, ex: 3, ex_item_count: 4
+Rank 4 Round 6: I'm RIGHT, My sample: 0.000000, 3's sample: 0.000000
+Rank 4 Round 6: Stopped at barrier
+Rank 3 Round 6: ODD phase, ex: 4, ex_item_count: 4
+Rank 3 Round 6: I'm LEFT, My sample: 0.000000, 4's sample: 0.000000
+Rank 3 Round 6: Stopped at barrier
+Rank 1 Round 6: ODD phase, ex: 2, ex_item_count: 4
+Rank 1 Round 6: I'm LEFT, My sample: -0.000000, 2's sample: -0.000000
+Rank 1 Round 6: Stopped at barrier
+Rank 0 Round 6: Stopped at barrier

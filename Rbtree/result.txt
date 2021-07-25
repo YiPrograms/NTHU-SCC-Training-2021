@@ -1,0 +1,5 @@
+original	4.0281	3.1770	1.7710	1.9701	2.67104
+std_multiset	4.0508	3.346	1.99776	2.10265	3.187
+std_multiset_emplacehint	2.2553	2.123	1.3835	1.4872	2.0246
+boost_container_multiset	4.580	3.6490	3.5384	3.0867	3.048
+boost_intrusive_multiset	5.347	4.0550	2.6664	2.57432	3.9249
